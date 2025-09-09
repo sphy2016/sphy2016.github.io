@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Probing a regular non-minimal Einstein-Yang-Mills black hole with gravitational lensings"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper1
+excerpt: 'https://doi.org/10.1016/j.physletb.2019.06.052'
+date: 2019-08-01
+venue: 'Physics Letters B'
+slidesurl: 'https://ui.adsabs.harvard.edu/abs/2019PhLB..795..475L/abstract'
+paperurl: 'https://doi.org/10.1016/j.physletb.2019.06.052'
+citation: 'Liu, F.-Y., Mai, Y.-F., Wu, W.-Y., et al. 2019, Physics Letters B, 795, 475. doi:10.1016/j.physletb.2019.06.052'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+We investigate weak and strong deflection gravitational lensings of the regular black hole predicted by a non-minimal Einstein–Yang–Mills theory. We find that its weak deflection lensing is the same as a Reissner–Nordström black hole's. Observables in the strong deflection lensing, including the apparent radius of the photon sphere (shadow) as well as the angular separation, brightness difference and time delay between relativistic images, are obtained and analyzed for the supermassive black holes Sgr A* and M87* in the Galactic Center and at the center of M87. We find that only the apparent radii of the photon spheres are within the ability of current technology, whereas there is not enough resolution to distinguish the regular Einstein–Yang–Mills black hole from the Reissner–Nordström one. Meanwhile, caution needs to be paid when the diameter of M87*'s shadow measured by the Event Horizon Telescope is directly taken to constrain such a regular black hole.
