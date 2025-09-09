@@ -18,4 +18,4 @@ My research focuses on:
 
 ## How to View
 This website is hosted using [GitHub Pages](https://pages.github.com/).  
-You can visit it here: 👉 [Your Website Link](https://your-username.github.io/your-repo-name)
+You can visit it here: 👉 [Your Website Link](https://sphy2016.github.io)
