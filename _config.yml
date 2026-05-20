@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shuairu Zhu/Astronomy/Homepage"
+title                    : "Shuairu Zhu"
 title_separator          : "-"
 name                     : &name "Shuairu Zhu"
-description              : &description "He/Him \\ Ph.D. Student in Astronomy"
+description              : &description "Galaxy Evolution; High-redshift Galaxies; Cosmic Reionization; Lyman Continuum Escape; HST/JWST Data Reduction and Analysis"
 url                      : https://sphy2016.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sphy2016/sphy2016.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shuairu Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in Astrophysics"
+  bio              : "Ph.D. Candidate in Astrophysics"
   location         : "Shanghai, China"
   employer         : "SHAO, CAS"
   uri              : # URL
@@ -151,9 +151,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-FXBPDZYMHJ"
 
 
 # Reading Files
@@ -169,6 +169,7 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - Agent.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor

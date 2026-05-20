@@ -3,6 +3,7 @@ layout: archive
 title: "Conferences and Workshops"
 permalink: /presentations/
 author_profile: true
+redirect_to: /#conferences
 ---
 
 International
@@ -66,4 +67,4 @@ Domestic
 - **2022 – Annual Workshop on the Science Data Processing System of China Space Station Telescope (CSST)**  
   *Contributed talk:* Image Stacking and Data Processing of HST Narrowband Deep Fields  
 
-- **2022, 2023, 2024 – CSST Galaxy Science Summer School for Graduate Students**  
+- **2022, 2023, 2024 – CSST Galaxy Science Summer School for Graduate Students**

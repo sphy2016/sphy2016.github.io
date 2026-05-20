@@ -74,6 +74,9 @@ function updateNav() {
 $(window).on('resize', function () {
   updateNav();
 });
+$(window).on('load', function () {
+  updateNav();
+});
 screen.orientation.addEventListener("change", function () {
   updateNav();
 });
@@ -84,3 +87,9 @@ $btn.on('click', function () {
 });
 
 updateNav();
+setTimeout(updateNav, 250);
+setTimeout(updateNav, 1000);
+setTimeout(updateNav, 2500);
+if (document.fonts && document.fonts.ready) {
+  document.fonts.ready.then(updateNav);
+}
