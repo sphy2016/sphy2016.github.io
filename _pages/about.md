@@ -17,7 +17,7 @@ redirect_from:
 I am a Ph.D. candidate in astrophysics at the Shanghai Astronomical Observatory, Chinese Academy of Sciences (SHAO, CAS), advised by Dr. Zhenya Zheng. My doctoral work uses HST and JWST observations to study high-redshift galaxies and the escape of hydrogen-ionizing Lyman-continuum (LyC) photons.
 
 <div class="profile-actions">
-  <a class="profile-action profile-action--primary" href="/files/cv.pdf">Latest CV</a>
+  <a class="profile-action profile-action--primary" href="/files/cv-2026-06-30.pdf">Latest CV</a>
   <a class="profile-action" href="mailto:shuairuz@shao.ac.cn">Email</a>
   <a class="profile-action" href="https://ui.adsabs.harvard.edu/user/libraries/IedFDgKGRNupslqZlDBlbw">NASA/ADS</a>
   <a class="profile-action" href="https://orcid.org/0000-0002-2528-0761">ORCID</a>
@@ -184,7 +184,7 @@ Image reduction and processing with Drizzlepac, SWarp, and PSF construction; pho
 
 My latest curriculum vitae is available here:
 
-<p><a class="profile-action profile-action--primary" href="/files/cv.pdf">Download CV</a></p>
+<p><a class="profile-action profile-action--primary" href="/files/cv-2026-06-30.pdf">Download CV</a></p>
 
 Please feel free to [email me](mailto:shuairuz@shao.ac.cn) for additional materials or an updated copy.
 </section>

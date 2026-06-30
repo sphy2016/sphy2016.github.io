@@ -12,6 +12,6 @@ redirect_from:
 
 My latest curriculum vitae is available here:
 
-<p><a class="profile-action profile-action--primary" href="/files/cv.pdf">Download CV</a></p>
+<p><a class="profile-action profile-action--primary" href="/files/cv-2026-06-30.pdf">Download CV</a></p>
 
 Please feel free to [email me](mailto:shuairuz@shao.ac.cn) for additional materials or an updated copy.
